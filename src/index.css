@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.text-red-700 {
+    color: #b22222; /* Darker shade of red */
+  }
+  .bg-red-700 {
+    background-color: #b22222;
+  }
+  
+  .hoverEffect{
+    width: 80%;
+    transition: all 0.5s ease-in-out;
+  }
